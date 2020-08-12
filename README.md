@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**ArjunDandagi/ArjunDandagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in WalmartLabs as Platform engineer /Devops 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+Hpbn.co by ilya. The best book on how TCP works and all the optmization you need to do make your webserver faster.
+<!-- - 👯 I’m looking to collaborate on ... -->
+
 - 🤔 I’m looking for help with ...
+Mentor who can advance my skillset and make me become senior SRE/Devops 
+
 - 💬 Ask me about ...
+Devops
+Python for beginners
+Terraform
+Docker . how to start , where to , learn , handson etc 
+
+If you have an idea and what me to work with you i am more than happy to start.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+mobile: double nine 72 four 1 three 7 five eight
+email: dandagi[dot]arjun95<at> gmail dot com
+
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: ...
 -->
