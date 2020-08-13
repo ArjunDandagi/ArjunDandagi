@@ -19,6 +19,6 @@ If you have an idea and what me to work with you i am more than happy to start.
 mobile: double nine 72 four 1 three 7 five eight
 email: dandagi[dot]arjun95<at> gmail dot com
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 <!-- - ⚡ Fun fact: ...
 -->
