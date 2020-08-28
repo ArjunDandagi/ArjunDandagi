@@ -22,4 +22,13 @@ email: dandagi[dot]arjun95<at> gmail dot com
 - 😄 Pronouns: He/Him/His
 <!-- - ⚡ Fun fact: ...
 -->
+## How to Reach Me ?
+<a href="https://twitter.com/arjundandagi" target="_blank">
+  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
+</a>
+<a href="https://www.linkedin.com/in/arjundandagi/" target="_blank">
+  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+</a>
+
+
 ![](https://komarev.com/ghpvc/?username=arjundandagi)
