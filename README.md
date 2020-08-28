@@ -24,10 +24,10 @@ email: dandagi[dot]arjun95<at> gmail dot com
 -->
 ## How to Reach Me ?
 <a href="https://twitter.com/arjundandagi" target="_blank">
-  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
+  <img rel="preload" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
 </a>
 <a href="https://www.linkedin.com/in/arjundandagi/" target="_blank">
-  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+  <img rel="preload" targe="_blank" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
 </a>
 
 <br/><br/><br/><br/><br/><br/>
