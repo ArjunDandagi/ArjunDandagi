@@ -30,5 +30,5 @@ email: dandagi[dot]arjun95<at> gmail dot com
   <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
 </a>
 
-
+<br/><br/><br/><br/><br/><br/>
 ![](https://komarev.com/ghpvc/?username=arjundandagi)
