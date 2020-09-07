@@ -27,7 +27,10 @@ email: dandagi[dot]arjun95<at> gmail dot com
   <img rel="preload" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
 </a>
 <a href="https://www.linkedin.com/in/arjundandagi/" target="_blank">
-  <img rel="preload" targe="_blank" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+  <img rel="preload" target="_blank" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+</a>
+<a href="https://wa.me/919972413758" target="_blank">
+  <img rel="preload" target="_blank" src="https://img.icons8.com/color/144/000000/whatsapp.png" width="100px"/>
 </a>
 
 <br/><br/><br/><br/><br/><br/>
