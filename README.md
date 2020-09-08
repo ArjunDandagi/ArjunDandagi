@@ -23,7 +23,7 @@ email: dandagi[dot]arjun95<at> gmail dot com
 <!-- - ⚡ Fun fact: ...
 -->
 ## How to Reach Me ?
-<a href="https://twitter.com/arjundandagi" target="_blank">
+<a href="https://twitter.com/intent/follow?screen_name=arjundandagi&tw_p=followbutton" target="_blank">
   <img rel="preload" src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
 </a>
 <a href="https://www.linkedin.com/in/arjundandagi/" target="_blank">
