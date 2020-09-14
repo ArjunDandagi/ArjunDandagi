@@ -14,7 +14,7 @@ Python for beginners
 Terraform
 Docker . how to start , where to , learn , handson etc 
 
-If you have an idea and what me to work with you i am more than happy to start.
+If you have an idea and want me to work with you i am more than happy to start.
 - 📫 How to reach me: ...
 mobile: double nine 72 four 1 three 7 five eight
 email: dandagi[dot]arjun95<at> gmail dot com
