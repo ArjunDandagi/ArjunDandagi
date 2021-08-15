@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in WalmartLabs as Platform engineer /Devops 
+- 🔭 I’m currently working in DeliveryHero as Platform engineer/Devops 
 - 🌱 I’m currently learning ...
 Hpbn.co by ilya. The best book on how TCP works and all the optmization you need to do make your webserver faster.
-<!-- - 👯 I’m looking to collaborate on ... -->
-
-- 🤔 I’m looking for help with ...
-Mentor who can advance my skillset and make me become senior SRE/Devops 
+<!-- - 👯 I’m looking to collaborate on ... --> 
 
 - 💬 Ask me about ...
 Devops
