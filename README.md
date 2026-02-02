@@ -31,5 +31,5 @@ email: dandagi[dot]arjun95<at> gmail dot com
   <img rel="preload" target="_blank" src="https://img.icons8.com/color/144/000000/whatsapp.png" width="100px"/>
 </a>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 ![](https://komarev.com/ghpvc/?username=arjundandagi)
