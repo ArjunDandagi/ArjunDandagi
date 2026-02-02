@@ -31,5 +31,10 @@ email: dandagi[dot]arjun95<at> gmail dot com
   <img rel="preload" target="_blank" src="https://img.icons8.com/color/144/000000/whatsapp.png" width="100px"/>
 </a>
 
+## Book a Session with Me:
+<a href="https://topmate.io/arjundandagi" target="_blank">
+  <img rel="preload" src=https://www.titancapital.vc/wp-content/uploads/2022/09/topmate-1.png" width="200px"/>
+</a>
+
 <br/><br/>
 ![](https://komarev.com/ghpvc/?username=arjundandagi)
